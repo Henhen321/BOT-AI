@@ -1,1 +1,1 @@
-web: node . --server
+worker: unzip ELAINA - AI.zip && node . --server
