@@ -1,1 +1,1 @@
-worker: unzip ELAINA - AI.zip && node . --server
+worker: npm start
