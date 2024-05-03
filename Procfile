@@ -1,1 +1,2 @@
-worker: unzip sessions.zip && npm start
+worker: unzip sessions.zip
+worker2: npm start
